@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Professor.java&apos; to &apos;module-info.java&apos;&#x0D;&#x0A;- Original project: &apos;Codigos aleatorios para testar&apos;&#x0D;&#x0A;- Destination element: &apos;module-info.java&apos;&#x0D;&#x0A;- Original element: &apos;Professor.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Universidade/src&lt;{module-info.java" element1="/src&lt;{Professor.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1663707977214" units="1" version="1.0"/>
+</session>

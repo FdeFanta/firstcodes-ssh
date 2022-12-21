@@ -1,0 +1,12 @@
+
+
+
+public class Usuario {
+	private String nome;
+	private int idade;
+	private char genero;
+	private int telefone;
+	
+	public 
+
+}
